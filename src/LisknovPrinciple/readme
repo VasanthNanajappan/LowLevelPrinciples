@@ -1,0 +1,13 @@
+The Liskov Substitution Principle (LSP) can be explained simply as follows:
+
+If you have a parent class and a child class,
+you should be able to use the child class wherever the parent class is expected without breaking the program.
+
+In other words, the child class should behave in a way that doesn’t surprise or cause errors
+ when used in place of its parent class.
+
+ In simpler terms when we use or call a function it should give an correct output instead of checking for errors!!
+ ex- not all birds can able to fly ,so that we included the comman characteristic in Bird class and flying characteristic
+     in a seperate class.
+
+ so that only the flying bird inherit those classes and no error will occur!!

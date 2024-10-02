@@ -1,0 +1,7 @@
+Definition:
+    A class should have only one reason to change, meaning it should have only one job or responsibility.
+
+Explanation:
+     Each class should focus on a single task or functionality.
+     This reduces the impact of changes and makes the code easier to maintain.
+     For example, a class that handles user authentication should not also handle logging or sending emails.

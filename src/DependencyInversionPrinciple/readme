@@ -1,0 +1,3 @@
+The Dependency Inversion Principle says that big parts of your program (high-level) should not depend on
+the small details (low-level).
+Instead, both should depend on something more general, like an interface.

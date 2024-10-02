@@ -1,0 +1,5 @@
+The Interface Segregation Principle (ISP) is one of the SOLID principles, and
+it states that no client should be forced to depend on methods it doesn't use.
+
+In simpler terms, instead of having one large, general-purpose interface,
+you should split it into smaller, more specific interfaces that clients need.
